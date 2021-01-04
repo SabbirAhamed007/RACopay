@@ -1,0 +1,20 @@
+[
+  {
+    "source": "^I open Actemra site$",
+    "steps": [
+      {
+        "name": "I open Actemra site",
+        "aggregatedDurations": {
+          "average": 12.6678197,
+          "median": 12.6678197
+        },
+        "durations": [
+          {
+            "duration": 12.6678197,
+            "location": "Actemra_Patient.feature:5"
+          }
+        ]
+      }
+    ]
+  }
+]
